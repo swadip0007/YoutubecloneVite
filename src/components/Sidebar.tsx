@@ -4,7 +4,6 @@ const sidebarItems = [
   { id: 1, title: 'Home', icon: 'tabler:brand-google-home' },
   { id: 2, title: 'Explore', icon: 'tabler:compass' },
   { id: 3, title: 'Subscriptions', icon: 'tabler:subscript' },
-  { id: 4, title: 'Library', icon: 'tabler:archive' },
   { id: 5, title: 'History', icon: 'tabler:clock' },
   { id: 6, title: 'Your Videos', icon: 'tabler:video' },
   { id: 7, title: 'Watch Later', icon: 'tabler:clock-hour-12' },
